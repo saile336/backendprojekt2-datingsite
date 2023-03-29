@@ -1,2 +1,1 @@
-# backendprojekt2-datingsite
-Datingsite made for Backend course.
+# projekt2-startpunkt
